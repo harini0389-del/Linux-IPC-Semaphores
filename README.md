@@ -84,6 +84,7 @@ $ ./sem.o
 <img width="688" height="130" alt="image" src="https://github.com/user-attachments/assets/a0bdefcb-baa3-478b-b710-c2f73f9dad49" />
 
 $ ipcs
+
 <img width="747" height="426" alt="image" src="https://github.com/user-attachments/assets/0c3e2e3e-3859-4b40-817d-fa36bea242cf" />
 
 # RESULT:
